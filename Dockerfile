@@ -1,4 +1,4 @@
-FROM metabase/metabase:v0.48.3
+FROM metabase/metabase:v0.48.8
 
 COPY docker-entrypoint.sh /app/
 
